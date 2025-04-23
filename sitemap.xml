@@ -1,1 +1,211 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"><url><loc>https://cws-site.vercel.app/</loc><lastmod>2025-04-23T05:59:28.755Z</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
+    <!-- Home -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+   
+   <!-- About Us -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/about-us</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Contact Us -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/contact-us</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Team -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/team</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Testimonial -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/testimonial</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Faq -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/faq</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Portfolio -->
+
+     <url>
+        <loc>https://cws-site.vercel.app/portfolio</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- services -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/customStore</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/shopify-migrations</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/headless-shopify</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/shopify-plus</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/support-&-maintanance</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/conversion-rate</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/selling-internationally-on-shopify</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/subscriptions-on-shopify</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/email-marketing-agency</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/shopify-app-development</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/seo-agency</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/shopify-b2b-wholesale</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <!-- Solutions -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/creditrepair</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+    <url>
+        <loc>https://cws-site.vercel.app/itdigitalagency</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+            
+    <url>
+        <loc>https://cws-site.vercel.app/winestore</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+            
+    <url>
+        <loc>https://cws-site.vercel.app/businessdirectory</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+            
+    <!-- Blog  -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/ourblog</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+            
+    <!-- Case Studies -->
+    <url>
+        <loc>https://cws-site.vercel.app/case-studies</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Brand -->
+
+    <url>
+        <loc>https://cws-site.vercel.app/brand</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+        
+
+</urlset>
