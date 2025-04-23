@@ -96,7 +96,7 @@
     </url>
         
     <url>
-        <loc>https://cws-site.vercel.app/support-&-maintanance</loc>
+        <loc>https://cws-site.vercel.app/support-&amp;-maintenance</loc>
         <lastmod>2025-04-23</lastmod>
         <changefreq>daily</changefreq>
         <priority>1.0</priority>
